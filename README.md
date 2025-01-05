@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alvi Alam 👋</h1>
 
 <div align="center">
-  <img src ="./github_banner.gif" />
+  <img src ="./banner2.gif" />
 </div>
 <br/>
 
@@ -32,11 +32,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-
-#### Tools
+#### Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -51,10 +47,10 @@
 
 ## Let's Connect!
 
-<a href="mailto:alvi.alam@example.com" title="Email">
+<a href="mailto:alvialam22@gmail.com" title="Email">
   <img align="left" alt="Email" src="https://img.icons8.com/color/48/000000/apple-mail.png" />
 </a>
-<a href="https://www.linkedin.com/in/alvi-alam/" title="LinkedIn">
+<a href="https://www.linkedin.com/in/alvialam22/" title="LinkedIn">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
