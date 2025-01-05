@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alvi Alam 👋</h1>
 
 <div align="center">
-  <img src ="./banner4.gif" />
+  <img src="./banner4.gif" alt="Banner" width="600" height="auto" />
 </div>
 <br/>
 
@@ -53,4 +53,3 @@
 <a href="https://www.linkedin.com/in/alvialam22/" title="LinkedIn">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-
