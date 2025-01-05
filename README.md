@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alvi Alam 👋</h1>
 
 <div align="center">
-  <img src ="./github_banner.jpg" />
+  <img src ="./github_banner.gif" />
 </div>
 <br/>
 
