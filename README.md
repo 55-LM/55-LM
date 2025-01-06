@@ -6,7 +6,7 @@
 <br/>
 
 ## About Me
-I'm a third-year Computer Engineering student at Toronto Metropolitan University who loves exploring the connection between software and hardware, working on projects like system optimization, software development, and embedded systems, and figuring out cool ways to turn ideas into reality.
+I'm a third-year Computer Engineering student at Toronto Metropolitan University who loves exploring the connection between software and hardware, and figuring out cool ways to turn ideas into reality.
 
 ## Technical Skills
 
