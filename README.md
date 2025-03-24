@@ -8,6 +8,7 @@
 ## About Me
 I'm a third-year Computer Engineering student at Toronto Metropolitan University, passionate about the intersection of software and hardware. I enjoy finding creative ways to bring ideas to life.
 
+<!--
 ## Technical Skills
 
 #### Languages
@@ -41,6 +42,7 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+-->
 ## Always open to connect, here’s where to find me
 
 <a href="mailto:alvialam22@gmail.com" title="Email">
