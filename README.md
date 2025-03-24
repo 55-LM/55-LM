@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Alvi Alam 👋</h1>
 
 <div align="center">
-  <img src="./githubbanner-ezgif.com-crop.gif" />
+  <img src="./githubbanner-ezgif.com-resize.gif" />
 </div>
 <br/>
 
