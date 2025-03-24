@@ -6,7 +6,7 @@
 <br/>
 
 ## About Me
-I'm a third-year Computer Engineering student at Toronto Metropolitan University who loves exploring at the intersection of software and hardware, and figuring out cool ways to turn ideas into reality.
+I'm a third-year Computer Engineering student at Toronto Metropolitan University, passionate about the intersection of software and hardware. I enjoy finding creative ways to bring ideas to life.
 
 ## Technical Skills
 
