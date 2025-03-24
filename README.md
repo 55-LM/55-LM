@@ -41,7 +41,7 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-## Let's Connect!
+## Always happy to connect
 
 <a href="mailto:alvialam22@gmail.com" title="Email">
   <img align="left" alt="Email" src="https://img.icons8.com/color/48/000000/apple-mail.png" />
