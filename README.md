@@ -45,24 +45,12 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
 -->
 ## Always open to connect, here’s where to find me
 
-<!--
+
 <a href="https://www.linkedin.com/in/alvia22/" title="LinkedIn" style="border: none; outline: none;">
   <img src="./linkedin-48.png" style="width: 32px; height: 32px;" />
 </a>
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
--->
-<div style="display: flex; align-items: center;">
-  <!-- First icon (email) -->
-  <a href="mailto:alvialam22@gmail.com" title="Email" style="border: none; outline: none;">
-    <img src="./email-12-48.png" style="width: 32px; height: 32px; margin-top: 4px;" />
-  </a>
-
-  <!-- Second icon (add another icon here) -->
-  <a href="mailto:anotheremail@example.com" title="Another Email" style="border: none; outline: none; margin-left: 10px;">
-    <img src="./linkedin-48.png" style="width: 32px; height: 32px; margin-top: 4px;" />
-  </a>
-</div>
-
 <!--
 <a href="mailto:alvialam22@gmail.com" title="Email" style="border: none; outline: none;">
   <img src="./email-12-48.png" style="width: 32px; height: 32px; margin-top: 4px;" />
