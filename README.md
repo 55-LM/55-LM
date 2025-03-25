@@ -54,7 +54,7 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
 
   <!-- LinkedIn icon -->
   <a href="https://www.linkedin.com/in/alvia22/" title="LinkedIn" style="border: none; outline: none;">
-    <img src="./linkedin-48.png" style="width: 32px; height: 32px;" />
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/>
   </a>
 </div>
 <!--
