@@ -52,6 +52,9 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
 <a href="https://www.linkedin.com/in/alvia22/" title="LinkedIn">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
 </a>
+<a href="https://twitter.com/yourusername" title="Twitter">
+  <img align="left" width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>
+</a>
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
