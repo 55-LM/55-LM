@@ -46,7 +46,7 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
 ## Always open to connect, here’s where to find me
 
 <a href="mailto:alvialam22@gmail.com" title="Email">
-  <img width="24" height="24" src="https://img.icons8.com/material-sharp/24/1A1A1A/linkedin--v1.png" alt="linkedin--v1"/>
+  <img src="./" />
 </a>
 <a href="https://www.linkedin.com/in/alvia22/" title="LinkedIn">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
