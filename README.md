@@ -46,17 +46,12 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
 ## Feel free to connect with me
 
 
-<div style="display: flex; align-items: center;">
-  <!-- Email icon -->
-  <a href="mailto:alvialam22@gmail.com" title="Email" style="border: none; outline: none; margin-right: 10px;">
-    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/apple-mail.png" alt="apple-mail"/>
-  </a>
-
-  <!-- LinkedIn icon -->
-  <a href="https://www.linkedin.com/in/alvia22/" title="LinkedIn" style="border: none; outline: none;">
-    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin"/>
-  </a>
-</div>
+<a href="mailto:alvialam22@gmail.com" title="Email">
+  <img align="left" alt="Email" src="https://img.icons8.com/color/48/000000/apple-mail.png" />
+</a>
+<a href="https://www.linkedin.com/in/alvia22/" title="LinkedIn">
+  <img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
