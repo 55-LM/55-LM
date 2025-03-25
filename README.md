@@ -49,5 +49,5 @@ I'm a third-year Computer Engineering student at Toronto Metropolitan University
   <img src="./linkedin-48.png" style="width: 32px; height: 32px;" />
 </a>
 <a href="https://www.linkedin.com/in/alvia22/" title="LinkedIn">
-  <img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  <img src="./linkedin-48.png" style="width: 32px; height: 32px;" />
 </a>
