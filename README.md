@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-I'm a third-year Computer Engineering student at Toronto Metropolitan University, passionate about the intersection of software and hardware. I enjoy finding creative ways to bring ideas to life.
+I'm a third-year Computer Engineering student at Toronto Metropolitan University, exploring at the intersection of software and hardware
 
 <!--
 ## Technical Skills
