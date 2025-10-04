@@ -1,5 +1,3 @@
-<h1>Hi, I'm Alvi </h1>
-
 <div align="center">
   <img src="./githubbanner-ezgif.com-resize.gif" />
 </div>
