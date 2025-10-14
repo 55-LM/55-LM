@@ -2,20 +2,18 @@ name: Update Banner Based on Sunrise and Sunset in Toronto
 
 on:
   schedule:
-    - cron: '0 * * * *'   # every hour (UTC)
+    - cron: '0 * * * *'   # every hour UTC
   workflow_dispatch:
 
-# Needed to push back to the repo
 permissions:
   contents: write
 
 jobs:
   update-banner:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Python dependencies
         run: |
@@ -23,16 +21,14 @@ jobs:
           pip install requests pytz
 
       - name: Update README banner
+        shell: bash
         run: |
           python3 <<'PY'
 import requests
 from datetime import datetime, timezone
 import re
 
-# 📍 Coordinates for Toronto
 lat, lon = 43.651070, -79.347015
-
-# Get sunrise/sunset data (UTC timestamps)
 url = f"https://api.sunrise-sunset.org/json?lat={lat}&lng={lon}&formatted=0"
 data = requests.get(url).json()["results"]
 
@@ -41,7 +37,6 @@ sunset_utc  = datetime.fromisoformat(data["sunset"]).replace(tzinfo=timezone.utc
 now_utc     = datetime.utcnow().replace(tzinfo=timezone.utc)
 
 banner = "banner6.gif" if sunrise_utc <= now_utc < sunset_utc else "banner7.gif"
-
 print(f"🌅 Sunrise: {sunrise_utc}")
 print(f"🌇 Sunset:  {sunset_utc}")
 print(f"🕒 Now:     {now_utc}")
@@ -61,6 +56,7 @@ else:
 PY
 
       - name: Commit and push changes
+        shell: bash
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -68,6 +64,6 @@ PY
           if git diff --cached --quiet; then
             echo "✅ No changes to commit."
           else
-            git commit -m "🌇 Update banner based on Toronto sunrise/sunset"
+            git commit -m "Update banner based on Toronto sunrise/sunset"
             git push
           fi
